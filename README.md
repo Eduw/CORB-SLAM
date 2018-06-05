@@ -1,6 +1,6 @@
-#CORB-SLAM
+# CORB-SLAM
 **Author:** [Ward Romanus](ward_romanus@hotmail.com)
-
+ 
 **05 Jun 2018**: Support for 2 monocular cameras 
 
 CORB-SLAM is build on ORB-SLAM2 and reuses all its components. To make it work: follow guide bellow. Only the monocular component is extended, so stereo and RGB-D won't work with two cameras.
