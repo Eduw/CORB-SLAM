@@ -1,0 +1,6 @@
+/home/ward/tools/clion-2017.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ward/tools/ORB_SLAM2
+Build type: Debug
+-- Using flag -std=c++11.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ward/tools/ORB_SLAM2/cmake-build-debug

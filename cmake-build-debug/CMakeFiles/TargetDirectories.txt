@@ -1,0 +1,10 @@
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/mono_kitti00Multi.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/mono_kitti00Both.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/mono_kitti05.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/mono_kitti02.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/mono_kitti00.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/mono_kitti06.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/mono_kitti.dir
+/home/ward/tools/ORB_SLAM2/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir
